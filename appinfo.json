@@ -1,10 +1,10 @@
 {
-    "id": "org.litefin.app",
+    "id": "org.vela.app",
     "version": "2.10.0",
-    "vendor": "Litefin",
+    "vendor": "Atlas",
     "type": "web",
     "main": "index.html",
-    "title": "Litefin",
+    "title": "Vela",
     "transparent": false,
     "appDescription": "Native Jellyfin client for WebOS",
     "disableBackHistoryAPI": true,
